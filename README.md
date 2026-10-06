@@ -7,7 +7,7 @@
 
 What this AI Agent does is allow you to analyze, read, write, and retrieve information from files and directories. It can also run Python files depending on the action you want it to perform.
 
-Example: Getting the Contents of a File
+Example: Getting the Contents of a File (here i used "." as the working directory, normally it's "./calculator")
 <img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/da107e4c-958e-45ae-817e-71154658d662" />
 Proof
 <img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/ae01088b-184a-4817-b06b-a40c4a33317a" />
