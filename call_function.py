@@ -36,7 +36,7 @@ def call_function(tool_call, verbose: bool = False) -> dict:
             "content": f"Error: Unknown function: {function_name}",
         }
 
-    function_args["working_directory"] = "."
+    function_args["working_directory"] = "./calculator"
 
     invoke = function_map[function_name]
     result = invoke(**function_args)
